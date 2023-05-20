@@ -20,9 +20,9 @@ You can find comprehensive information on working with the ROS2 platform in the 
 
 
 **Data-set link**   
-HuRic Dataset: https://github.com/crux82/huric
-Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset 
-WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17  
-CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/   
-
-We have already published the preprint of the paper in arxiv. Link: https://arxiv.org/abs/2304.11520
+HuRic Dataset: https://github.com/crux82/huric      
+Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset        
+WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
+CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/          
+  
+We have already published the preprint of the paper in arxiv. Link: https://arxiv.org/abs/2304.11520      
