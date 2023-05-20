@@ -7,6 +7,10 @@ Terminal command for running pub-sub model:
 IC:  `ros2 run intenc talker`    
 NER:  `ros2 run ner talker`
 
+To measure the energy we used UM25C energy meter.     
+To measure system memory consumption, we used @profile method of python.   
+Deatils can be found by analyzing the code of `publisher_member_function.py`
+
 #Data-set link:   
 HuRic Dataset: https://github.com/crux82/huric  
 Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset  
