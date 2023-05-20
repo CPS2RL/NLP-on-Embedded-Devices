@@ -15,7 +15,10 @@ Terminal command for running pub-sub model:
 To measure the energy we used UM25C energy meter.     
 To measure system memory consumption, we used @profile method of python.   
 Deatils can be found by analyzing the code of `publisher_member_function.py`    
+  
 You can find comprehensive information on working with the ROS2 platform in the provided resource. Their documentation is highly regarded, making it the optimal source for acquiring in-depth knowledge about the ROS platform. Link: https://docs.ros.org/en/foxy/index.html
+
+
 **Data-set link**   
 HuRic Dataset: `https://github.com/crux82/huric`  
 Go Emotions Dataset: `https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset`  
