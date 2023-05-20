@@ -12,6 +12,9 @@ To measure system memory consumption, we used @profile method of python.
 Deatils can be found by analyzing the code of `publisher_member_function.py`
 
 #Data-set link:   
-HuRic Dataset: https://github.com/crux82/huric  
-Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset  
-WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17  
+HuRic Dataset: `https://github.com/crux82/huric`  
+Go Emotions Dataset: `https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset`  
+WNUT'17 Dataset: `https://github.com/leondz/emerging_entities_17`  
+CoNLL Dataset: `https://ebanalyse.github.io/NERDA/datasets/`   
+
+We have already published the preprint of the paper in arxiv. Link: `https://arxiv.org/abs/2304.11520`
