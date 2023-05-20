@@ -4,7 +4,15 @@
 We used the ROS2 platform for conducting Intent Classification (IC) and Name Entity Recognition (NER) tasks. Our implementation employed based on the pub-sub model of robot operation system (ROS). You can find more information about the ROS pub-sub model in the provided link: https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html  
 We have trained the Bert model offline and put it on the BERT folder inside Intent Classification or NER folder.  
 Terminal command for running pub-sub model:    
-IC:  `ros2 run intenc talker`    
+IC:  `ros2 run intenc talker`<div class="code">
+  <button class="copy-button">Copy</button>
+  <pre>
+    <code>
+      # Your code here
+    </code>
+  </pre>
+</div>
+    
 NER:  `ros2 run ner talker`
 
 To measure the energy we used UM25C energy meter.     
