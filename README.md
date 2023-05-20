@@ -5,7 +5,7 @@ We used the ROS2 platform for conducting Intent Classification (IC) and Name Ent
 We have trained the Bert model offline and put it on the BERT folder inside Intent Classification or NER folder.  
 Terminal command for running pub-sub model:    
 IC:<div class="code">
-  <button class="copy-button"></button><pre><code># ros2 run intenc talker</code></pre>
+  <button class="copy-button">IC</button><pre><code># ros2 run intenc talker</code></pre>
 </div>
 
 NER:  `ros2 run ner talker`
