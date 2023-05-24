@@ -1,6 +1,8 @@
-# Benchmarking BERT-based NLP models on Embedded Devices (Raspberry Pi)
+### Benchmarking BERT-based NLP models on Embedded Devices (Raspberry Pi)
 
 **How to use the code?**  
+
+
 We used the ROS2 platform for conducting Intent Classification (IC) and Name Entity Recognition (NER) tasks. Our implementation employed based on the pub-sub model of robot operation system (ROS). We have implemented the project on Raspberry Pi. Installation guide of ROS2 in Pi: https://docs.ros.org/en/foxy/How-To-Guides/Installing-on-Raspberry-Pi.html . You can find more information about the ROS pub-sub model in the provided link: https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Py-Publisher-And-Subscriber.html  
 We have trained the Bert model offline and put it on the BERT folder inside Intent Classification or NER folder.  
 Terminal command for running pub-sub model:    
@@ -20,6 +22,7 @@ You can find comprehensive information on working with the ROS2 platform in the 
 
 
 **Data-set link**   
+
 HuRic Dataset: https://github.com/crux82/huric      
 Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset        
 WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
