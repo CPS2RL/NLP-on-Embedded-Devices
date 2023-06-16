@@ -29,11 +29,11 @@ Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-
 WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
 CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/          
 
-![image description]( CPS2RL /
+![image description](/CPS2RL /
 NLP-on-Embedded-Devices
 P/hardwaresetup.pdf)
 OR
-<img src=" CPS2RL /
+<img src="/CPS2RL /
 NLP-on-Embedded-Devices
 P/hardwaresetup.pdf" width="128"/>
    
