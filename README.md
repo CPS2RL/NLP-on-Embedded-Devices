@@ -13,7 +13,7 @@ Terminal command for running pub-sub model:
   <button class="copy-button">NER</button><pre><code> ros2 run ner talker</code></pre>
 </div>
 
-Saved model link: https://figshare.com/account/home#/projects/169256
+Saved model link:https://figshare.com/account/home#/projects/169256
 
 To measure the energy we used UM25C energy meter.     
 To measure system memory consumption, we used @profile method of python.   
