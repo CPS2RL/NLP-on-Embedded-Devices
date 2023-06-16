@@ -24,11 +24,12 @@ You can find comprehensive information on working with the ROS2 platform in the 
 
 **Data-set link**   
 
+
 HuRic Dataset: https://github.com/crux82/huric      
 Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset        
 WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
 CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/          
 
-/home/babor/Downloads/hardwaresetup.pdf
+[hardwaresetup.pdf](https://github.com/CPS2RL/NLP-on-Embedded-Devices/files/11776049/hardwaresetup.pdf)
   
 The arXiv preprint of our findings is available here: https://arxiv.org/abs/2304.11520      
