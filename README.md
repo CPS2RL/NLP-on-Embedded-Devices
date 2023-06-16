@@ -31,9 +31,11 @@ WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17
 CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/     
 
 ![Screenshot-61](https://github.com/CPS2RL/NLP-on-Embedded-Devices/assets/71979845/2690e3a1-27af-4b9f-8523-6ec05df8df8a)
+
 Fig: Utterance processing steps of a voice-controlled embedded device.
 
 ![Screenshot-59](https://github.com/CPS2RL/NLP-on-Embedded-Devices/assets/71979845/4acafa0c-4b0c-4182-ae51-9e9641734cbd)
+
 Fig: Hardware Setup
 
 
