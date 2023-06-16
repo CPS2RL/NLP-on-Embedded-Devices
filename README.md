@@ -29,9 +29,13 @@ Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-
 WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
 CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/          
 
-![image description]( NLP-on-Embedded-Devices/hardwaresetup.pdf)
+![image description]( CPS2RL /
+NLP-on-Embedded-Devices
+P/hardwaresetup.pdf)
 OR
-<img src=" NLP-on-Embedded-Devices/hardwaresetup.pdf" width="128"/>
+<img src=" CPS2RL /
+NLP-on-Embedded-Devices
+P/hardwaresetup.pdf" width="128"/>
    
   
 The arXiv preprint of our findings is available here: https://arxiv.org/abs/2304.11520      
