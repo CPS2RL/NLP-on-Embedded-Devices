@@ -28,5 +28,10 @@ HuRic Dataset: https://github.com/crux82/huric
 Go Emotions Dataset: https://www.kaggle.com/datasets/shivamb/go-emotions-google-emotions-dataset        
 WNUT'17 Dataset: https://github.com/leondz/emerging_entities_17         
 CoNLL Dataset: https://ebanalyse.github.io/NERDA/datasets/          
+
+![image description]( NLP-on-Embedded-Devices/hardwaresetup.pdf)
+OR
+<img src=" NLP-on-Embedded-Devices/hardwaresetup.pdf" width="128"/>
+   
   
 The arXiv preprint of our findings is available here: https://arxiv.org/abs/2304.11520      
